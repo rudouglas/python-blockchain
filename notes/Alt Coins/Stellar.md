@@ -1,0 +1,8 @@
+- Open-source/Decentralized
+- Lumens or XLM
+- Expand access to low-cost financial services to fight poverty and maximise individual potential
+- Very transparent
+- Handles exchanges between Fiat and crypto
+- Low fees (0.00001 Lumens)
+- Fast transaction speeds that rival Ripple
+- Non-profit
